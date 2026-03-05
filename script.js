@@ -1,8 +1,8 @@
 // Typing Effect
 const text = [
-  "Front-End Developer",
-  "JavaScript Developer",
-  "Node.js Learner",
+  "Full Stack Developer",
+  "Node.js Developer",
+  "Problem Solver",
   "Web Designer"
 ];
 
@@ -23,7 +23,7 @@ function type() {
     j = 0;
   }
 
-  setTimeout(type, 120);
+  setTimeout(type, 140);
 }
 
 type();
